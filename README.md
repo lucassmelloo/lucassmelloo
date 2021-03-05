@@ -2,4 +2,4 @@
 ## Meu nome é Lucas Mello, estudante de Ciencia da Computação pela UNIFACS!
 
 
-# [:link: LinkedIn](https://github.com/user/repo/blob/branch/other_file.md)
+# [:link: LinkedIn](https://www.linkedin.com/in/lucas-de-mello-vieira-17339217b/)
