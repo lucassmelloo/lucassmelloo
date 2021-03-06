@@ -1,6 +1,6 @@
 # Seja bem vindo! :smile:
 ## Meu nome é Lucas Mello, sou iniciante!
-## Sou estudante de Ciência da Computação pela UNIFACS, estou iniciando na area de tecnologia e aprendendo um pouco a cada dia!
+### Sou estudante de Ciência da Computação pela UNIFACS, estou iniciando na area de tecnologia e aprendendo um pouco a cada dia!
 
 
 <footer>
