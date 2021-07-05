@@ -2,6 +2,9 @@
 ## Meu nome é Lucas Mello, sou iniciante!
 ### Estudante de Ciência da Computação pela UNIFACS, começando a programar e aprendendo um pouco a cada dia!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmelloo&layout=compact)](https://github.com/lucassmelloo/github-readme-stats)
+
+
 <strong> "Conforme seus músculos da força de vontade se desenvolvem, os bons hábitos transbordam para outras partes de sua vida."</strong> 
 <br/>-O Poder do Hábito.
 <footer>
