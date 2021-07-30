@@ -1,5 +1,5 @@
 # Seja bem vindo! :smile:
-## Meu nome é Lucas Mello, Estudo programação mobile!
+## Meu nome é Lucas Mello, Estudo programação!
 ### Estudante de Ciência da Computação pela UNIFACS, começando a programar e aprendendo um pouco a cada dia!
 
 
