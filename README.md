@@ -1,5 +1,4 @@
-# Seja bem vindo! :smile:
-## Meu nome é Lucas Mello, Estudo programação!
+# Meu nome é Lucas Mello, Estudo programação!
 ### Cientista da Computação pela UNIFACS, aprendendo um pouco a cada dia!
 
 
