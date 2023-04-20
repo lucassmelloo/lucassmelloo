@@ -1,6 +1,6 @@
 # Seja bem vindo! :smile:
 ## Meu nome é Lucas Mello, Estudo programação!
-### Estudante de Ciência da Computação pela UNIFACS, começando a programar e aprendendo um pouco a cada dia!
+### Cientista da Computação pela UNIFACS, aprendendo um pouco a cada dia!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmelloo&layout=compact)](https://github.com/lucassmelloo/github-readme-stats)
