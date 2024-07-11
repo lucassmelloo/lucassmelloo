@@ -1,6 +1,6 @@
 # Lucas Mello - Data Engineer
 
-👋 Olá! Sou o Lucas, um Engenheiro de Dados com mais de 5 anos de experiência na área. Atualmente, trabalho como Engenheiro de Dados no Labchecap desde 01/05/2024, desenvolvendo soluções eficientes e escaláveis para a ingestão, processamento e análise de dados.
+👋 Olá! Sou o Lucas, um Engenheiro de Dados com mais de 5 anos de experiência na área. Atualmente, trabalho como Engenheiro de Dados no Labchecap, desenvolvendo soluções eficientes e escaláveis para a ingestão, processamento e análise de dados.
 
 ## 🛠 Habilidades
 
