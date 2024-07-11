@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Lucas de Mello</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+# Lucas Mello - Data Engineer
 
-- 🔭 I’m currently working on **Labchecap**
+👋 Olá! Sou o Lucas, um Engenheiro de Dados com mais de 5 anos de experiência na área. Atualmente, trabalho como Engenheiro de Dados no Labchecap desde 01/05/2024, desenvolvendo soluções eficientes e escaláveis para a ingestão, processamento e análise de dados.
 
-- 🌱 I’m currently learning **Laravel**
+## 🛠 Habilidades
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-de-mello-vieira-17339217b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-de-mello-vieira-17339217b/" height="30" width="40" /></a>
-</p>
+- **Linguagens de Programação**: Python, SQL
+- **Ferramentas e Tecnologias**: Apache Airflow, Apache NiFi, Pentaho, Docker, Metabase, Docker, Linux, WSL
+- **Bancos de Dados**: Oracle, MySQL, PostgreSQL, NoSQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 📈 Experiência
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassmelloo&" alt="lucassmelloo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassmelloo&show_icons=true&locale=en" alt="lucassmelloo" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassmelloo&show_icons=true&locale=en&layout=compact" alt="lucassmelloo" /></p>
+- **Labchecap** (2019 - Presente)
+  - **Engenheiro de Dados** (2024 - Presente)
+    - Desenvolvimento de pipelines de dados utilizando Apache Airflow e Apache NiFi.
+    - Integração e automação de processos de ETL.
+    - Criação de dashboards e relatórios com Metabase.
+  - **Desenvolvedor** (2022 - 2024)
+    - Desenvolvimento de aplicações e scripts para automação de processos.
+    - Manutenção e otimização de sistemas existentes.
+  - **Técnico de Sistemas** (2021 - 2021)
+    - Suporte técnico e manutenção de sistemas.
+    - Implementação de melhorias e correções de bugs.
+  - **Estagiário de Sistemas** (2020 - 2021)
+    - Auxílio na manutenção de sistemas e suporte técnico.
+    - Desenvolvimento de pequenas funcionalidades e correções.
 
+- **Projetos Pessoais e Contribuições**
+  - Implementação de pipelines de dados para processamento de grandes volumes de dados.
+  - Automação de tarefas de ingestão e transformação de dados.
+  - Contribuições para projetos open-source relacionados a engenharia de dados.
 
+## 🌐 Conecte-se Comigo
 
+- [LinkedIn](https://www.linkedin.com/in/lucas-de-mello-vieira-17339217b/)
+- [GitHub](https://github.com/lucassmelloo)
+- [Medium](https://medium.com/@lucasmellovieira99)
+- [E-mail](mailto:lucasmellovieira99@gmail.com)
+
+## 📚 Listas de Leitura
+
+- [Lista de Leitura sobre Data Engineering](https://medium.com/@lucasmellovieira99)
+
+## 📊 Projetos
+
+### Projeto 1: Pipeline de Dados com Apache Airflow
+- **Descrição**: Pipeline de dados para ingestão, transformação e carregamento de dados de diversas fontes.
+- **Tecnologias**: Apache Airflow, PostgreSQL, Python
+- **Repositório**: [Link para o Repositório](https://github.com/lucassmelloo/my-airflow)
 
