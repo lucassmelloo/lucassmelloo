@@ -4,17 +4,17 @@
 
 ## 🛠 Habilidades
 
-- **Linguagens de Programação**: Python, SQL, PHP, Laravel e VueJS
-- **Ferramentas e Tecnologias**: Apache Airflow, Pentaho, Docker, Metabase, Docker, Linux, WSL
+- **Linguagens de Programação**: Python, SQL, PHP, Laravel e VueJS.
+- **Ferramentas e Tecnologias**: Apache Airflow, Pentaho, Docker, Metabase, Docker, Linux e WSL.
 - **Bancos de Dados**: Oracle, MySQL, PostgreSQL, NoSQL
 
 ## 📈 Experiência
 
 - **Labchecap** 
   - **Engenheiro de Dados** (2024 - Presente)
-    - Desenvolvimento de pipelines de dados utilizando Apache Airflow e Apache NiFi.
+    - Desenvolvimento de pipelines de dados utilizando Apache Airflow e Pentaho.
     - Integração e automação de processos de ETL.
-    - Criação de dashboards e relatórios com Metabase.
+    - Criação de dashboards e relatórios com Metabase e consultas complexas em SQL.
   - **Desenvolvedor** (2022 - 2024)
     - Desenvolvimento de aplicações e scripts para automação de processos.
     - Manutenção e otimização de sistemas existentes.
