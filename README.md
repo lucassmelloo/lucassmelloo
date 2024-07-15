@@ -1,16 +1,16 @@
 # Lucas Mello - Data Engineer
 
-👋 Olá! Sou o Lucas, um Engenheiro de Dados com mais de 5 anos de experiência na área. Atualmente, trabalho como Engenheiro de Dados no Labchecap, desenvolvendo soluções eficientes e escaláveis para a ingestão, processamento e análise de dados.
+👋 Olá! Sou o Lucas e atualmente trabalho como Engenheiro de Dados no Labchecap, desenvolvendo soluções eficientes e escaláveis para a ingestão, processamento e análise de dados.
 
 ## 🛠 Habilidades
 
-- **Linguagens de Programação**: Python, SQL
-- **Ferramentas e Tecnologias**: Apache Airflow, Apache NiFi, Pentaho, Docker, Metabase, Docker, Linux, WSL
+- **Linguagens de Programação**: Python, SQL, PHP, Laravel e VueJS
+- **Ferramentas e Tecnologias**: Apache Airflow, Pentaho, Docker, Metabase, Docker, Linux, WSL
 - **Bancos de Dados**: Oracle, MySQL, PostgreSQL, NoSQL
 
 ## 📈 Experiência
 
-- **Labchecap** (2019 - Presente)
+- **Labchecap** 
   - **Engenheiro de Dados** (2024 - Presente)
     - Desenvolvimento de pipelines de dados utilizando Apache Airflow e Apache NiFi.
     - Integração e automação de processos de ETL.
@@ -28,6 +28,7 @@
 - **Projetos Pessoais e Contribuições**
   - Implementação de pipelines de dados para processamento de grandes volumes de dados.
   - Automação de tarefas de ingestão e transformação de dados.
+  - Migração de Dados de uma base MySQL para Oracle.
   - Contribuições para projetos open-source relacionados a engenharia de dados.
 
 ## 🌐 Conecte-se Comigo
@@ -35,7 +36,6 @@
 - [LinkedIn](https://www.linkedin.com/in/lucas-de-mello-vieira-17339217b/)
 - [GitHub](https://github.com/lucassmelloo)
 - [Medium](https://medium.com/@lucasmellovieira99)
-- [E-mail](mailto:lucasmellovieira99@gmail.com)
 
 ## 📚 Listas de Leitura
 
